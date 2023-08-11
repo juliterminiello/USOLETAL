@@ -1,0 +1,845 @@
+﻿AÑO;APELLIDO;NOMBRE;EDAD;GENERP;MUNICIPIO;CIRCUNTANCIAS;MECANISMO;INSTITUCIÓN;ACTIVIDAD;SERVICIO;DJ
+2016;Panigua;Esteban;17;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2016;Baez;Rosa Hilda;;Mujer;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2016;Valdez;Sergio Alejandro;20;Varón;Ituzaingó;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;No;;Morón
+2016;Alvarez;Ezequiel Alberto;17;Varón;La Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2016;Ibarra;Walter Oscar;49;Varón;La Plata;Femicidio vinculado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2016;;;;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;;;20;Varón;Merlo;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2016;Sacks;Fernando Daniel;23;Varón;Morón;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2016;Sanfelia;Beatriz;82;Mujer;San Martín;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;San Martín
+2016;Nagode;Natalia Ester;;Mujer;Chascomus;Femicidio;Sin dato;Policía Bonaerense;Sí;No;Dolores
+2016;Alt;Luciano;6;Varón;San Martín;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;San Martín
+2016;Ruiz Díaz;Lautaro Nahuel;17;Varón;Magdalena;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;La Plata
+2016;Ledesma;Ariel Oscar;;Varón;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2016;Caballero;Oscar Alberto;;Varón;Quilmes;Otra circunstancia de intervención policial;Patrullero;Policía Bonaerense;Sí;Sí;Quilmes
+2016;Alé;Jonathan Adrián;26;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2016;Mengarelli;Santiago Andrés;;Varón;La Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2016;Malgieri;Brandon Agustin;16;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2016;Garín;Nicolás;19;Varón;Malvinas Argentinas;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;Sin dato;San Martín
+2016;Villalba;Damián;32;Varón;La Matanza;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;Sin dato
+2016;Pintos;Nahuel Nicolás;15;Varón;San Miguel;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2016;Ramírez;Mauricio Alejandro;27;Varón;San Martín;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2016;Rivadero;Daniel Vicente;33;Varón;Avellaneda;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2016;;;36;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2016;Lopez;Matías Ezequiel;24;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2016;Lopez;Franco Nicolas;20;Varón;Morón;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2016;Berardi;Carlos;;Varón;San Martín;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2016;Godoy;Gabriel;15;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2016;Barreto;Tomás Leonardo;17;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;Sí;Morón
+2016;Rojas;Gustavo Ariel;26;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;Livia;Silvia;;Mujer;La Matanza;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;Soplan;Emiliano Manuel;19;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2016;Gómez;Germán;22;Varón;Merlo;Circunstancia de carácter privado;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Morón
+2016;Orué;Fernando Damián;16;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2016;;;25;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Sin dato
+2016;Daluz;Joel o Braian;;Varón;Lomas de Zamora;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2016;Veliz;Damian Gastón;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;Gómez;Franco Maximiliano;19;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2016;Cordoba;Julian Maximiliano;15;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2016;Silva;Cristian;25;Varón;Esteban Echeverría;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2016;Torres;Julio Cesar;40;Varón;General Villegas;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Trenque Lauquen
+2016;Guerrero;Sovia Davidad;25;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;;;;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2016;Aguilera;Juan Manuel;;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;Lomas de Zamora
+2016;;;;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;San Martín
+2016;Joel Lezcano;Agustín;19;Varón;San Martín;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;Sí;San Martín
+2016;;;;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2016;Aguilar;Joel Daniel;14;Varón;Ituzaingó;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;Morón
+2016;Perez;Alexis Victor;;Varón;San Martín;Sin dato;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;San Martín
+2016;;;;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Sin dato
+2016;Sosa;Enzo;;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2016;Vizcarra;Leonardo;;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;Aybar;Elvio German;44;Varón;La Plata;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;La Plata
+2016;Cariton;Daniel Alberto;;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2016;Caminatti;Brian Nicolas;20;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2016;Campos;Hilda Emilia;;Mujer;La Plata;Sin dato;Patrullero;Policía Bonaerense;Sí;Sí;La Plata
+2016;Abraham;Jesús Roberto;24;Varón;Campana;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Zárate Campana
+2016;;;;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2016;González;Antonella Soledad;;Mujer;Lomas de Zamora;Sin dato;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;Lomas de Zamora
+2016;Martínez;Diego Ariel;;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2016;Venegas;Walter Javier;;Varón;General Rodríguez;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2016;Correa;Domingo Maximiliano;31;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;Cespedes;Luis Alberto;23;Varón;Escobar;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Zárate Campana
+2016;Borquez;Ismael;25;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;No;;Lomas de Zamora
+2016;;;53;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2016;González;Emiliano Ezequiel;27;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2016;Martínez;Axel Iván;20;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2016;Arroyo;Diego Osvaldo;39;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;La Matanza
+2016;Botias Chávez;Horacio Alberto;39;Varón;La Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2016;González;Victor Emanuel;17;Varón;La Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2016;;;;Varón;La Matanza;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2016;;;;Varón;La Matanza;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2016;Diz;Claudio Oscar;25;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2016;Diz;Maximiliano;30;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2016;Rodas;Diego;35;Varón;Ituzaingó;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2016;Leiva;Alan;22;Varón;La Matanza;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2016;Lopez;Adán;;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2016;Zacarias;Leonel Hernan;20;Varón;Berazategui;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2016;Ávalos;Roberto;27;Varón;Mar del Plata;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Mar del Plata
+2016;Robilotta;Martin;;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2016;Mederoz;Miguel Angel;;Varón;Morón;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2016;Ruiz Díaz;Martin Alejandro;;Varón;Morón;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2016;;;;Varón;San Isidro;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Isidro
+2016;González;Victor;37;Varón;San Martín;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2016;;;25;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;;;;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Sin dato
+2016;Fernandez;Juan Manuel;31;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2016;B.;Hector;;Varón;Avellaneda;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2016;Fin;Hernán Rubén;25;Varón;Lanús;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2016;González;Juan Carlos;42;Varón;La Matanza;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;Oxance;Carlos Andrés;39;Varón;La Matanza;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2016;Leyes;Jonathan;25;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2016;López;Miguel Angel;30;Varón;Berazategui;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2016;Cienchanowich;Axel Antonio;54;Varón;San Martín;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;San Martín
+2016;Rivas;Catalino Fernández;32;Varón;La Matanza;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2016;Venecier;Ignacio;42;Varón;Olavarría;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Azul
+2016;Painceria;Eduado Sebastian;28;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2016;Pereyra;Juan Martín;37;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2016;Quintana;Lucas Laureano;16;Varón;Morón;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2016;Argentino;Joel Alan;25;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2016;Lezcano;Eric;21;Varón;Lanús;Persecución;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;Sí;Lomas de Zamora
+2016;Velazco;Axel Michel;;Varón;Florencio Varela;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2016;Sotelo;Sebastián Leonel;19;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2016;Lopez;Elias;17;Varón;San Martín;Sin dato;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;San Martín
+2016;;;22;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Sin dato
+2016;;;;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Sin dato
+2016;;;;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Sin dato
+2016;Hernández;Manuel Ernesto;24;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2016;Flores;Jorge;33;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2016;Monzón;Gabriel;24;Varón;La Matanza;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;La Matanza
+2016;Torales Díaz;Claudio;28;Varón;La Matanza;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;La Matanza
+2017;Zeron Santoro;Kevin Elías;18;Varón;Avellaneda;Circunstancia de carácter privado;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Lomas de Zamora
+2017;;;;Varón;Ituzaingó;Robo de bienes propios;Arma de fuego no reglamentaria;Gendarmería Nacional;No;;Morón
+2017;Pizzanni;Jonatan Eduardo;24;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2017;Troncoso;Antonio Ramón;36;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2017;Villa;Fernando Javier;24;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2017;;;;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2017;Salinas;Giancarlo;27;Varón;Avellaneda;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2017;Redes;Lucas Gabriel;;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;Sí;Quilmes
+2017;Cannepa;Patricio Javier;;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2017;Domínguez;Ezequiel;21;Varón;Partido de la Costa;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Dolores
+2017;Bertain;Cesar Manuel;18;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Sin dato
+2017;López;Franco Nahuel;22;Varón;San Martín;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2017;Rojas;Roque Antonio;27;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2017;Cané;Gustavo;57;Varón;Bahía Blanca;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Bahía Blanca
+2017;Pavón Belloto;Jorge Adrián;25;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2017;;;;Varón;Lomas de Zamora;Robo de bienes propios;Sin dato;Policía Bonaerense;Sí;Sin dato;Sin dato
+2017;Décima;Lucas Esteban Israel;17;Varón;Merlo;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2017;Pastorino;Jonathan Emanuel;31;Varón;Campana;Sin dato;Arma de fuego reglamentaria;Sin dato;Sí;Sin dato;Zárate Campana
+2017;Paz;Manuel;;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2017;;;;Varón;Berazategui;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2017;Aguirre;Horacio Marcelo;43;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2017;Corbalán;Damian Ezequiel;26;Varón;Ensenada;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Plata
+2017;Valiente;Jose Alejandro;17;Varón;Berazategui;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2017;Veli;Agustin Sebastían;17;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2017;Barboza;Ivan Rodrigo;26;Varón;La Plata;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;No;;La Plata
+2017;Rojo;Geronimo;17;Varón;La Plata;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;No;;La Plata
+2017;Gaggi;Juan Pablo;19;Varón;San Martín;Persecución;Otro mecanismo;Policía Federal Argentina;Sí;Sin dato;Sin dato
+2017;Fernández;Natalia Elizabeth;26;Mujer;Morón;Femicidio;Arma de fuego no reglamentaria;Policía Bonaerense;No;;Sin dato
+2017;;;;Varón;Sin dato;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Sin dato
+2017;Rodriguez;Jorge Daniel;;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2017;;;;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2017;Mora;Emanuel;;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2017;;;38;Varón;Lomas de Zamora;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Sin dato
+2017;Franco;Diego Ezequiel;18;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2017;Galvez;Lucas Daniel Eduardo;22;Varón;Florencio Varela;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2017;Tortorella;Roberto Luis;73;Varón;Mar del Plata;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Mar del Plata
+2017;Badell;Marisquena;22;Mujer;Berisso;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2017;;;;Mujer;Sin dato;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2017;Gómez;Humberto Hugo;20;Varón;Merlo;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2017;;;;Varón;Sin dato;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;Morón
+2017;Alvarado Rocca;Cesar Manuel;;Varón;Tigre;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;San Isidro
+2017;;;;Mujer;Sin dato;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;San Isidro
+2017;Vargas;Nicolás;18;Varón;La Plata;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Plata
+2017;Coronel;Marcos Francisco;26;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2017;Soria;Anibal;30;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2017;Cufre;Walter Carlos Alberto;18;Varón;Moreno;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Moreno-Gral. Rodríguez
+2017;Luque;Jonathan Eduardo;;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2017;Heredia;Fernando Nicolás;18;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;La Matanza
+2017;Vilches;Tomás Ezequiel;17;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2017;Veloso;Nicolás Alejandro;22;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2017;Coronel;Mariano Rolando;21;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2017;Encina Nuñez;Alan Aaron;19;Varón;San Martín;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2017;Cabaña;Mauro Daniel;14;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2017;Ibarra;César Sebastián;33;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2017;;;;Varón;Sin dato;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sin dato;;Lomas de Zamora
+2017;Ávalos;Iago Axel Pablo;17;Varón;Hurlingham;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2017;Cáceres;Luis Daniel;19;Varón;Hurlingham;Riesgo de vida de terceros;Arma de fuego reglamentaria;Prefectura Naval;Sí;No;Morón
+2017;Belizán;Ivan;20;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2017;Gérez;Diego Sebastian;;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2017;Aranda;Ricardo Javier;25;Varón;Esteban Echeverría;Sin dato;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2017;Soria Lomazzi;Lucas Damián;22;Varón;La Matanza;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Sin dato
+2017;Abeldaño;Ángel;21;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;Sin dato;Sin dato
+2017;Coria;Brian Ezequiel;21;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2017;L. H. C;;18;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2017;Saldaño;Alan;18;Varón;Morón;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;No;;Morón
+2017;Albarracín;Lorena Elizabeth;37;Mujer;Almirante Brown;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;Sí;Lomas de Zamora
+2017;Romero;Ana Estefanía;29;Mujer;Lomas de Zamora;Femicidio;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2017;Olivera;Germán Emanuel;27;Varón;Carmen de Patagones;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Bahía Blanca
+2017;Marinovich;Damián;;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;Sin dato;Quilmes
+2017;;;;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Sin dato
+2017;;;20;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2017;Correa;Rodrigo Alejandro;14;Varón;San Martín;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2017;Flores;Alan Nahuel;;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2017;Roldán;Jeremías Emmanuel;17;Varón;San Isidro;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Isidro
+2017;;;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2017;Sánchez;Juan Carlos;28;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2017;Kinast;Italo Rafael;30;Varón;Malvinas Argentinas;Riesgo de vida de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2017;Talavera;Santiago Emanuel;18;Varón;Tigre;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;San Isidro
+2017;Banuera;Matias;14;Varón;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2017;Curbelo;Agustín;18;Varón;Merlo;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;Morón
+2017;González;Rodrigo Adrián;37;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2017;Vargas;Nazareno;18;Varón;Merlo;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;Morón
+2017;Molina;Sergio Abraham;22;Varón;Florencio Varela;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2017;;Willy;32;Varón;Quilmes;Robo de bienes propios;Arma de fuego no reglamentaria;Gendarmería Nacional;No;;Quilmes
+2017;;;;Varón;Hurlingham;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Sin dato
+2017;Álvarez;Lucas;24;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2017;Lazarte;Sixto Raúl;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2017;;;;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Sin dato
+2017;Campos;Maximiliano Ariel;25;Varón;La Plata;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Plata
+2017;;;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Sin dato;Sí;No;Mercedes
+2017;Giménez;Yanina Rocío;23;Mujer;Lanús;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2017;Gómez Ovelar;Ernán Enrique;;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2017;Gangui;Nicolas Lucas;;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2017;;;;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Sin dato
+2017;;;16;Varón;Merlo;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Sin dato
+2017;Hunter;Gabriela;39;Mujer;Presidente Perón;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2017;;;18;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2017;Cuello;Alexis;17;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2017;Bufano;Carla Giselle;29;Mujer;La Matanza;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2017;Sosa;Elio;43;Varón;Moreno;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2017;Gómez;María Julieta;31;Mujer;La Matanza;Femicidio;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2017;Padula;Fernando Ezequiel;23;Varón;La Matanza;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;La Matanza
+2017;;;;Varón;Malvinas Argentinas;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Sin dato
+2017;;;27;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Sin dato;Sí;Sí;Lomas de Zamora
+2017;Alderete;Ricardo Daniel;32;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2017;Alderete;Adrián Enrique;35;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2017;Rodriguez;Marcelo Gustavo;39;Varón;Moreno;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2017;;;;Varón;Sin dato;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;La Plata
+2017;Fernández;Cristian Damián;16;Varón;La Matanza;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2017;Laiguera;Jorge Alberto;45;Varón;Ituzaingó;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Sin dato
+2017;Guadono;Alan Agustín;17;Varón;Escobar;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Zárate Campana
+2017;Galarza;Wilson Andrés;26;Varón;Malvinas Argentinas;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2017;Ávila;Héctor Daniel;;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía de Seguridad Aeroportuaria;Sí;No;Morón
+2017;Palacio Caravajal;Cristian Fernando;;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2017;Campos;Nahuel Omar;22;Varón;Ituzaingó;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2017;Blanco;Julio César;;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2017;;;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2017;Romero Cárdena;Johan;20;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2017;;;;Varón;San Fernando;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Sin dato
+2017;Aguayo del Solar;María Isabel;29;Mujer;Moreno;Sin dato;Sin dato;Policía Bonaerense;Sí;Sin dato;Moreno-Gral. Rodríguez
+2017;;;;Varón;Sin dato;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Mar del Plata
+2017;Figueroa;David;31;Varón;Moreno;Sin dato;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;Moreno-Gral. Rodríguez
+2017;Mendoza;Victoria Lara;20;Mujer;Moreno;Persecución;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;Sí;Moreno-Gral. Rodríguez
+2018;Gomez;Mario Alberto;20;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Silva;Facundo Eduardo;;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Ordoñez;Matías Omar;16;Varón;Mar del Plata;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Mar del Plata
+2018;Almonacid;Sergio Gustavo;47;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Rodríguez;Juan Carlos;24;Varón;Tigre;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Isidro
+2018;Imbesi Schuldeis;Teo Alberto;19;Varón;Morón;Robo de bienes propios;Arma de fuego no reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2018;Chendo;Gastón Agustín;25;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2018;Reyes;Diego Nicolás;22;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2018;Síbori;Nicolás;25;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2018;Morel;Pablo;45;Varón;San Pedro;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Nicolás
+2018;Vázquez;Lautaro Leonel;19;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;Sí;Quilmes
+2018;Enrique;Fabian Ezequiel;17;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Acevedo;Lucas Ezequiel;21;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2018;Rubín;Hugo Alberto;53;Varón;Zárate;Riesgo de vida de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Zárate Campana
+2018;Quiroga;Luana Jazmín;6;Mujer;Partido de la Costa;Circunstancia de carácter privado;Arma de fuego no reglamentaria;Policía Bonaerense;No;;Dolores
+2018;Paredes Lugo;Hernan;20;Varón;Quilmes;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2018;Díaz;Thomas Ramiro;16;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía de Seguridad Aeroportuaria;Sí;No;Lomas de Zamora
+2018;Leiva;Pablo Abel;29;Varón;Vicente López;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2018;Blanco;Martín;39;Varón;Tres Arroyos;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;Bahía Blanca
+2018;Moreno Suárez;Alexis Nicolás;19;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2018;Garfagnoli;Mauro David;38;Varón;San Nicolás;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Nicolás
+2018;Berisso;Sergio Ariel;27;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Pregot;Elían;17;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;González;Carlos Esteban;30;Varón;La Matanza;Riesgo de vida de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2018;Cristaldo;Leonardo Sebastián;34;Varón;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2018;Canedo;Lucas Jonathan;30;Varón;San Isidro;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Isidro
+2018;Aguirre;Cristian Fabián;26;Varón;Lomas de Zamora;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Gallardo;Pablo;17;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Gómez;Cristian Nicolás;18;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Vargas;Matías;21;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Brossio;Adrian Leonardo;;Varón;Tres de Febrero;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2018;Amarilla;Cristina;30;Mujer;General Rodríguez;Femicidio;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Moreno-Gral. Rodríguez
+2018;Moreyra;Fernando César;;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Roda;Diego;;Varón;Ituzaingó;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2018;Guardia;Uriel;15;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego no reglamentaria;Policía Bonaerense;No;;Lomas de Zamora
+2018;Bonfante;Diego Martín;42;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2018;Benitez;Ruben Darío;;Varón;Esteban Echeverría;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Sin dato
+2018;Romero;Facundo;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2018;Lopez;Juan Gonzalo;20;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Leguizamón;Guillermo Félix;43;Varón;Moreno;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2018;Escobar;Cristian Daniel;21;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Saavedra;Daniel;31;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Lomas de Zamora
+2018;Giménez;Nahuel Elías;19;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2018;Herrera;Carlos;30;Varón;La Plata;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Plata
+2018;Fariña;Vicente Gabriel;16;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2018;Moreta;Daniel Rodrigo;19;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2018;Villagra;Enzo;17;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2018;Gonzalez;Bruno;30;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2018;Castillo;Nicolas;26;Varón;Chivilcoy;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;Mercedes
+2018;Lopez;Axel;18;Varón;Florencio Varela;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2018;Duarte;Claudio Daniel;24;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Moreno-Gral. Rodríguez
+2018;;;31;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2018;;;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2018;;;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2018;Pérez;Daniel;52;Varón;Tandil;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Azul
+2018;;Jonathan;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2018;Sedán;Carlos Javier;21;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2018;Ferreyra;Facundo;20;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Mascareño;Edith Pamela;33;Mujer;Florencio Varela;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Paniagua;Sergio David;43;Varón;Merlo;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2018;Cisneros;Carla Gianella;16;Mujer;Esteban Echeverría;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Cisneros;Nahuel Alejandro;20;Varón;Esteban Echeverría;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Gimenez;Daniela Evelyn;26;Mujer;Esteban Echeverría;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Echenique;Enzo Facundo;22;Varón;Tigre;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2018;Alfonso;Juan Gabriel;34;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Sin dato;Sí;No;Lomas de Zamora
+2018;Gomez;Facundo;15;Varón;Mar del Plata;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;Sí;No;Mar del Plata
+2018;Altamirano;Matías Heriberto;;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;San Martín
+2018;Olmos;Gustavo Javier;;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;San Martín
+2018;Navarro;Marcelo Ruben;20;Varón;José C. Paz;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2018;Bentancour;Julia;;Mujer;Pilar;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2018;Isaias;Nahuel;26;Varón;Pilar;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2018;;;36;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2018;;Alan;17;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2018;Mansilla;Brian Herrera;19;Varón;Tres de Febrero;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2018;Alvarez Heredia;Rodrigo;18;Varón;Lomas de Zamora;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2018;;;15;Varón;San Martín;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2018;Borelli Chaparro;Aldana Gisele;20;Mujer;Bahía Blanca;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Bahía Blanca
+2018;;;23;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;No;;Quilmes
+2018;Romero;Walter;;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;;;22;Varón;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Catalano;Miguel Ángel;;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Juarez;Marcelo Gabriel;17;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Abarza;Gerardo Miguel;35;Varón;Lomas de Zamora;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2018;Montero;Gonzálo Gastón;23;Varón;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Zaragoza;Raquel;37;Mujer;Florencio Varela;Femicidio;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Plata
+2018;Sandoval;Andrés Ramón;66;Varón;Malvinas Argentinas;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;San Martín
+2018;Leiva;Ariel Leonardo;16;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2018;;;;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2018;Restaino;Feliz;24;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2018;Marrero;Cristian Nahuel;;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2018;Marchan;Eduardo;28;Varón;La Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2018;González;Leonel Agustin;25;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2018;Piñero;Guillermo Alberto;36;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2018;Vinolzqui;Maximiliano;;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2018;Gorosito;Jesús Ezequiel;31;Varón;Tres de Febrero;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2018;Pata;Juan Pablo;30;Varón;Tres de Febrero;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2018;Mamani Ferreyra;Juan Sebastián;22;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2018;Villaroel;Ariel;18;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2018;;;17;Varón;Tres de Febrero;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2018;Orellano;Kevin;19;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2018;Frizzio;Jésica Gabriela Emiliana;29;Mujer;La Matanza;Femicidio;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2018;;;26;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2018;Casas;Ivan Ezequiel;18;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2018;Flematti;Rodrigo Nicolás;16;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2018;Duarte Vuerterone;Zair;10;Varón;Esteban Echeverría;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;No;;Lomas de Zamora
+2018;Zapata Orellana;Rodolfo;36;Varón;La Matanza;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2018;Britoz Quiroga;Juan José;;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2018;Quintero;Franco Dante;17;Varón;Moreno;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2018;Cañete;Cristian David;23;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;No;;La Matanza
+2018;Fonseca Gonzalez;Damian Alejandro;19;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Mendoza;Michel;24;Varón;Pilar;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2018;González;Mario;37;Varón;La Plata;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Plata
+2018;Uberti;Carlos Damian;;Varón;Tigre;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Isidro
+2018;Dupertuis;Gisela Edith;32;Mujer;Ezeiza;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2018;Rivas;Sandra;46;Mujer;Esteban Echeverría;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2018;Barreto;Claudio Daniel;29;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2018;Rodríguez;Joaquín Horacio;31;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2018;Cruz;Agustín Ricardo;17;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2018;Cava Vicuña;Carlos;;Varón;San Isidro;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2018;Huarachi;Ángel Cruz;;Varón;San Isidro;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2019;Gómez;Germán Ramón;;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Sin dato
+2019;Oporto;Alan Anselmo;;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Quilmes
+2019;P.;C. E.;32;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Bahía Blanca
+2019;Barreto;Claudio Daniel;47;Varón;San Isidro;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2019;Rodríguez;Joaquin Horacio;34;Varón;San Isidro;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2019;Marincovich;Matias Jesús;18;Varón;La Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2019;Abalo;Luis Ezequiel;30;Varón;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2019;Acosta;Luis D.;;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2019;Ugarte;Romina;26;Mujer;Cañuelas;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2019;Pelayes;Nicolas E.;18;Varón;Moreno;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2019;Del Arco;Mariana Alejandra;32;Mujer;Partido de la Costa;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Dolores
+2019;Benegas;Debora Andrea;37;Mujer;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2019;C.;B. N.;19;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Martín
+2019;González Molina;Franco G.;23;Varón;Bahía Blanca;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Bahía Blanca
+2019;C.;M. A.;17;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;H.;J. E.;30;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;Vega;Walter Adrián;18;Varón;Esteban Echeverría;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2019;A.;A.;25;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2019;;;;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2019;C.;E. A.;30;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;Echeverría;Franco E.;21;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2019;G.;L. I.;19;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2019;Manrique;Leonardo Ezequiel;16;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2019;Orellano;Nicolás L.;24;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2019;Sandoval;Gabriel Maximilian;29;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2019;Suárez;Claudio Fabián;52;Varón;Merlo;Circunstancia de carácter privado;Fuerza física;Policía Bonaerense;Sí;No;Morón
+2019;Añasco;Braian Emanuel;27;Varón;Esteban Echeverría;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de Seguridad Aeroportuaria;Sí;No;Lomas de Zamora
+2019;Riveros;Agustin;13;Varón;Almirante Brown;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2019;Umerez;Alberto;16;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2019;R.;R. E.;25;Varón;La Matanza;Sin dato;Sin dato;Sin dato;Sin dato;;La Matanza
+2019;Villalba;Antonio Bernardo;18;Varón;Presidente Perón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Plata
+2019;Rodríguez;Matias Ezequiel;;Varón;Sin dato;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Sin dato
+2019;Sánchez;Jorge Daniel;21;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2019;Carabajal;Alexis Maximiliano;17;Varón;Escobar;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Zárate Campana
+2019;Britos;Mauro Daniel;21;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2019;Sánchez;Matias N.;27;Varón;San Martín;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2019;Borda;Fernando L.;22;Varón;La Matanza;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2019;Donati Lopresti;Lucas;30;Varón;San Miguel;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2019;Cuella Cabañas;Alcides Jesús;24;Varón;Moreno;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2019;Sosa;Matias Javier;;Varón;Morón;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2019;López;Mauro Gabriel;40;Varón;La Matanza;Sin dato;Arma de fuego reglamentaria;Sin dato;Sí;Sin dato;La Matanza
+2019;;;;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Lomas de Zamora
+2019;P.;A. R.;22;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2019;García;Arturo Beltrano;34;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2019;Chavéz;Cristián A.;26;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego no reglamentaria;Otra;No;;La Matanza
+2019;Barrios;Federico Antonio;24;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2019;Florenti;David Antonio;;Varón;Malvinas Argentinas;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;San Martín
+2019;Montecino Vergara;Cristian Ariel;;Varón;Malvinas Argentinas;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;San Martín
+2019;Martín;Hernan David;;Varón;Avellaneda;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2019;V. T.;J. J. C.;24;Varón;Moreno;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2019;Da Silva Silva;Juan Carlos;26;Varón;Florencio Varela;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2019;B.;E. A.;18;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Martín
+2019;Silva Villafañe;Carlos Jorge;40;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;S.;E. N.;28;Varón;La Matanza;Sin dato;Sin dato;Sin dato;Sin dato;;La Matanza
+2019;E.;A.;19;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;;;;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Sin dato
+2019;Jasi;Sergio;29;Varón;Tres de Febrero;Otra circunstancia de intervención policial;Fuerza física;Policía Bonaerense;Sí;Sí;Sin dato
+2019;Ferreyra;David;23;Varón;Tigre;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2019;Navarro;Melisa Andrea;24;Mujer;Almirante Brown;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2019;González;Brian Maximiliano;26;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;Rodríguez;Noemí Cristina;51;Mujer;Marcos Paz;Femicidio;Arma de fuego no reglamentaria;Policía Bonaerense;No;;Mercedes
+2019;R.;B.;22;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2019;Cagliero;Diego;30;Varón;Tres de Febrero;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2019;Dominguez;Gonzalo;14;Varón;San Miguel del Mont;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;La Plata
+2019;Lopez;Camila;13;Mujer;San Miguel del Mont;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;La Plata
+2019;Sansone;Danilo;13;Varón;San Miguel del Mont;Persecución;Otro mecanismo;Policía Bonaerense;Sí;No;La Plata
+2019;Suarez;Carlos Aníbal;22;Varón;San Miguel del Mont;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;La Plata
+2019;F.;B. D.;;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Isidro
+2019;Ballesteros;Saúl;30;Varón;Lincoln;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Junín
+2019;Milogis;Damian Leonel;30;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2019;Servin;Miguelina;29;Mujer;Morón;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2019;Córdoba;Kevin;18;Varón;Florencio Varela;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2019;B.;C. D.;23;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Lomas de Zamora
+2019;I.;A. F.;;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Lomas de Zamora
+2019;Lavega;Irina;4;Mujer;Merlo;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2019;Lavega;Julián;7;Varón;Merlo;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2019;Alvarez;Juan Gabriel;;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Sin dato
+2019;Espeche;Mauricio Nicolás;22;Varón;Malvinas Argentinas;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2019;Kumber;Melissa;27;Mujer;Quilmes;Femicidio;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2019;Tassara;Ricardo Raul;64;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2019;Novoa;Jonathan Nahuel;20;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2019;M.;J. R.;41;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Martín
+2019;Duarte;Matías;25;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2019;Avalos;Walter Adrián;35;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;Alderete;Matias Leonel;15;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2019;M.;A. A.;40;Varón;La Matanza;Sin dato;Sin dato;Sin dato;Sin dato;;La Matanza
+2019;Maldonado;Walter Ezequiel;18;Varón;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2019;A.;Joaquín Gonzalo;18;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2019;Malmoria;Ángel Nahuel;21;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2019;Gutierrez;Leandro Damián;22;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2019;Albarracín;Manuel Marcelo;25;Varón;Mar del Plata;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Mar del Plata
+2019;P.;R. E.;24;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Bahía Blanca
+2019;Ludueña;Franco David;22;Varón;Moreno;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2019;Benítez;Lucas Samuel;18;Varón;La Matanza;Sin dato;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;La Matanza
+2019;Barris;Javier Alejandro;14;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2019;Soria;César;32;Varón;Berazategui;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2019;Argañaraz;Juan Carlos;17;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;C.;J. E.;17;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Prefectura Naval;Sí;No;Lomas de Zamora
+2019;C.;I. Y.;27;Varón;La Matanza;Sin dato;Sin dato;Sin dato;Sin dato;;La Matanza
+2019;Córdoba;Demián Alan;18;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2019;Rodríguez;Cristhian Matias;29;Varón;Moreno;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2019;Gutierrez;Laura Romina;30;Mujer;La Plata;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2019;Acosta;Jonathan Ezequiel;24;Varón;La Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2019;Toledo;Marcelo;18;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Quilmes
+2019;Troto;Jonathan Nahuel;27;Varón;San Martín;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2019;Pereyra;Lucas Agustín;20;Varón;Ezeiza;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;Sin dato
+2019;Sosa;Marcos Leonel;18;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2019;Medina;Alejandro Nicolás;16;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2019;S.;T. A. R.;15;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2019;Molina;Facundo;;Varón;Quilmes;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2019;Cuello;Leonardo Ezequiel;31;Varón;Pilar;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2019;Gerling;Juan Maximiliano;38;Varón;Campana;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Sin dato
+2019;Colman;Ian Isaac;3;Varón;La Plata;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;La Plata
+2019;O.;F. A.;16;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Martín
+2019;Gómez;Claudio Marcelo;18;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;San Martín
+2019;Valleri;Emiliano A.;24;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;San Martín
+2019;Barrientos;Marcelo;24;Varón;Merlo;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2019;Muñoz;Edgardo Maximilian;18;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2019;Gómez;Abril Micaela;16;Mujer;Avellaneda;Robo de bienes de terceros;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Lomas de Zamora
+2019;P.;D. A.;17;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Martín
+2019;R.;H. F.;23;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Lomas de Zamora
+2019;G.;A. E.;19;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2019;Vázquez M.;Omar A.;47;Varón;Ezeiza;Robo de bienes propios;Fuerza física;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2019;M.;A. A.;28;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2019;G.;A. F;31;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2019;Yancovich;Thomas Iván;16;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2019;Pacheco;Brian Néstor;21;Varón;Malvinas Argentinas;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2019;Reynoso Monte;Alejandro;18;Varón;San Martín;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;San Martín
+2019;E.;L.;34;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Mar del Plata
+2019;Zabala;Bárbara;20;Mujer;Pehuajó;Femicidio;Otro mecanismo;Policía Bonaerense;No;;Trenque Lauquen
+2019;C.;L. F.;18;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Prefectura Naval;Sí;No;Morón
+2019;Romano;Agustín Gonzalo;19;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Prefectura Naval;Sí;No;Morón
+2019;S.;J. H.;44;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Nicolás
+2019;Huichequeo;Paulina Fernanda;42;Mujer;Junín;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;Junín
+2019;;;18;Varón;La Matanza;Robo de bienes propios;Sin dato;Policía Federal Argentina;No;;La Matanza
+2019;Adura;Luis Alberto;75;Varón;Mar del Plata;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;Mar del Plata
+2019;García;Martín;18;Varón;Mar del Plata;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;Sin dato
+2019;B.;N. E.;17;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2019;Dell Agnolo;Rodolfo Ariel;34;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2019;Ottaso;Diego Armando;27;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2019;Bernardez;Victor Jesús;32;Varón;Esteban Echeverría;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;No;;Sin dato
+2019;Juárez;Juan;20;Varón;Zárate;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Zárate Campana
+2020;Ruiz;Pablo Alberto;31;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2020;Romero;Leonel;28;Varón;Quilmes;Persecución;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2020;Díaz;Emiliano;29;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2020;C.;R. E.;32;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2020;Pérez;Silvio Nicolás;21;Varón;San Martín;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2020;;;;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2020;Goñi;Ariel Fernando;16;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2020;Vargas;Juan Cruz;24;Varón;Mar del Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Mar del Plata
+2020;García;Damián;31;Varón;Berazategui;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2020;Gómez;Javier Sebastián;21;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2020;Cardozo;Alejandro;;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;La Matanza
+2020;Nuñez Gauto;Epifanio;51;Varón;La Plata;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Plata
+2020;Fernández;Lucas Matías;26;Varón;La Plata;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Plata
+2020;Melgar;Kevin Joel;48;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2020;Luna;Ángel;26;Varón;San Pedro;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Nicolás
+2020;;;;Varón;Moreno;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Sin dato
+2020;;;15;Varón;Moreno;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Sin dato
+2020;Lugo;Federico Alejandro;23;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2020;M. L.;O. E.;24;Varón;La Matanza;Sin dato;Sin dato;Sin dato;Sin dato;;La Matanza
+2020;V. P.;R. J;32;Varón;La Matanza;Sin dato;Sin dato;Sin dato;Sin dato;;La Matanza
+2020;Sánchez;Guillermo;28;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2020;López;Leandro Alexis;18;Varón;San Nicolás;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Nicolás
+2020;Sandoval;Federico Agustín;20;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2020;R. D.;J. A.;37;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Isidro
+2020;Manaszczuk;Jorge Maximiliano;;Varón;Lanús;Robo de bienes de terceros;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Lomas de Zamora
+2020;Arias;Diego;27;Varón;Berazategui;Otra circunstancia de intervención policial;Otro mecanismo;Policía Bonaerense;Sí;Sí;Quilmes
+2020;C.;C. O.;49;Varón;Moreno;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Moreno-Gral. Rodríguez
+2020;Mereles;Rodolfo Mario;28;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2020;;;25;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2020;Florencio;Diego Omar;43;Varón;Malvinas Argentinas;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2020;M.;J. A.;34;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Morón
+2020;;;19;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2020;D. P.;P. F.;20;Varón;Malvinas Argentinas;Riesgo de vida de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2020;Parra;Rodrigo Daniel;19;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2020;Escobar;Eric Daniel;18;Varón;Berazategui;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2020;Pérez;Ezequiel;35;Varón;Pilar;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;San Isidro
+2020;Plaza;Javier Rolando;23;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2020;Villagra;Germán Daniel;28;Varón;Tres de Febrero;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2020;Gómez;Maximiliano Nahuel;23;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;Sin dato;Lomas de Zamora
+2020;Cardozo;Jonathan Damián;27;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2020;Ramos;Juan Guillermo;27;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2020;Milei;Damián;33;Varón;La Plata;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Plata
+2020;Segovia;Francisco;52;Varón;La Plata;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Plata
+2020;Álvarez;Matías Adrián;23;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2020;Santucho;Santiago Dylan;17;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2020;Obes;César Alejandro;17;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2020;Ares;Angel;19;Varón;Lobos;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;La Plata
+2020;R.;J. L;53;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Morón
+2020;Lezcano;Guillermo Horacio;52;Varón;San Martín;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2020;Monsalvo;Kevin Ariel;20;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2020;Maidana;Alan;19;Varón;Berazategui;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2020;Rojas;Brenda Aylén;19;Mujer;Pehuajó;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Trenque Lauquen
+2020;Lulich;Felipe;30;Varón;Pehuajó;Femicidio vinculado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Trenque Lauquen
+2020;Barrios;Lucas David;18;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2020;Corbalán;Ezequiel;30;Varón;San Nicolás;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;San Nicolás
+2020;Rial;Ulises;25;Varón;San Nicolás;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;San Nicolás
+2020;Pereyra;Héctor Matias;;Varón;Malvinas Argentinas;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2020;Vera;Mauro Agustín;19;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2020;Vallejos;Alejo Gabriel;21;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2020;Lucero;Alexis;17;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Moreno-Gral. Rodríguez
+2020;Iturralde;Augusto Oscar;25;Varón;Berazategui;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2020;;Sergio Maximiliano;20;Varón;San Isidro;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2020;Sayes;Pedro Alberto;29;Varón;San Martín;Robo de bienes de terceros;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;San Martín
+2020;Padilla;Jorge Gabriel;40;Varón;Tres de Febrero;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2020;Arzamendia;Diego Nicolás;22;Varón;Berazategui;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2020;Quinteros;Diego;22;Varón;San Andrés de Giles;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Mercedes
+2020;Borda;Gonzalo Daniel;23;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2020;Muñoz;Maximiliano Alejandro;30;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2020;Villagrán;Julio Antonio;40;Varón;Moreno;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2020;Leguizamón;Fernando Matias Ezequiel;31;Varón;Quilmes;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2020;Vargas;Antonio Oscar;27;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2020;Barrientos;Daniel Jorge;30;Varón;Lomas de Zamora;Persecución;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;Sí;Lomas de Zamora
+2020;Segovia;Cristian E.;21;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2020;Gómez;Maximiliano Leonel;23;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2020;Obregón;José Rodolfo;;Varón;La Plata;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;La Plata
+2020;Romero;Brandon Neron;18;Varón;Mar del Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Mar del Plata
+2020;Gauto;Ezequiel Ariel;22;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2020;Mansilla;Marcelo Fabián;22;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2020;Adobatto;Lucas Leonel;15;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Moreno-Gral. Rodríguez
+2020;Verón;Lucas Nahuel;18;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2020;Monte;Daniel Alejandro;19;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2020;Romero;Juan Francisco;32;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2020;Da Silva;Nicolás E.;22;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2020;Duarte;Daniel Alejandro;40;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2020;Nuñez;Cristian Matias;29;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;No;;Quilmes
+2020;B.;M. A.;24;Varón;Quilmes;Sin dato;Sin dato;Sin dato;Sin dato;;Quilmes
+2020;A.;C. E.;34;Varón;Florencio Varela;Sin dato;Sin dato;Sin dato;Sin dato;;Quilmes
+2020;Gatica;Alexis Leonardo;26;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sin dato;La Matanza
+2020;Ortigoza;Roberto;24;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;No;;Quilmes
+2020;Medina;Yonathan E.;16;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2020;Martinez;Lorenzo;2;Varón;Baradero;Femicidio vinculado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Nicolás
+2020;R.;R. F.;27;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2020;Li Donni;Juan José;48;Varón;Pilar;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Isidro
+2020;Temprano;Axel Ezequiel;20;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2020;Albarracin;Brian;21;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2020;Pompa;Yamil Nicolás;34;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2020;Guerreño;Walter Emilio;40;Varón;Lanús;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Lomas de Zamora
+2020;Ríos;Matias Ezequiel;19;Varón;La Plata;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2020;G.;B. L. J.;20;Varón;La Matanza;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2020;Bulacios;Ricardo J. M.;21;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2020;Monge;Diego Nicolás;;Varón;Malvinas Argentinas;Sin dato;Arma de fuego no reglamentaria;Policía Bonaerense;No;;San Martín
+2020;;;;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Sin dato
+2020;Galván;Rafael Angel Alberto;37;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2020;Espindola;Alejandro;23;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2020;Costilla;Néstor Ramón;28;Varón;La Plata;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;La Plata
+2020;L.;F.;;Varón;Quilmes;Sin dato;Sin dato;Sin dato;Sin dato;;Quilmes
+2020;Della Mónica;Jerónimo Ezequiel;43;Varón;La Matanza;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2020;Martinez;Ángel Hernán;45;Varón;Almirante Brown;Riesgo de vida de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2020;Farías;Santiago Ezequiel;18;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2020;López;Brandon Uriel;18;Varón;Pilar;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2020;Figueroa;Juan David;26;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2020;Ifrán;Kevin E.;16;Varón;Ensenada;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Plata
+2020;Ledesma;Florencia Abigail;17;Mujer;José C. Paz;Persecución;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;Sí;San Martín
+2020;Aguirre;Guillermo Damián;46;Varón;Moreno;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2020;Barrientos;Alexis Ezequiel;17;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2020;Segovia;Walter Dario;25;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2020;Morales;Ismael;25;Varón;Lomas de Zamora;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2020;Malpede;Fernando Daniel;40;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;No;;Lomas de Zamora
+2020;S.;H.;;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía de Seguridad Aeroportuaria;Sí;No;Lomas de Zamora
+2020;Barrios;Matias Gustavo;21;Varón;José C. Paz;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2020;;;31;Varón;La Plata;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;La Plata
+2020;Ceballo Otero;Nahuel Alejandro;17;Varón;Zárate;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Zárate Campana
+2020;Cohener;Julio César;41;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2020;Corvalan;Alan Joel;16;Varón;Florencio Varela;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2020;Carrazan;Elias Dan Andrés;22;Varón;Merlo;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2020;Godoy;Federico M.;16;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Avellaneda-Lanús
+2020;Orellano Bugallo;Franco Valentín;17;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Avellaneda-Lanús
+2020;Cevallo;Horacio Eduardo;23;Varón;Almirante Brown;Circunstancia de carácter privado;Fuerza física;Policía Bonaerense;Sí;No;Lomas de Zamora
+2021;Salto;Alexis;27;Varón;San Miguel;Femicidio vinculado;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;San Martín
+2021;Salto;Martin Ariel;34;Varón;San Miguel;Femicidio vinculado;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;San Martín
+2021;;;;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2021;Vergara;Ariel Nicolás;20;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2021;R.;M. J.;37;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Lomas de Zamora
+2021;V.;G. G.;42;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Lomas de Zamora
+2021;Moreno;Martín Ernesto;36;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2021;Pascuale;Agustin Giuliano;19;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Moreno-Gral. Rodríguez
+2021;Suárez;Héctor Baltazar;81;Varón;Hurlingham;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2021;Peruchena/Eruchena;Lautaro U.;16;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2021;Rodríguez;Matias Ezequiel;16;Varón;Lomas de Zamora;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2021;M.;C. G.;36;Varón;Esteban Echeverría;Sin dato;Sin dato;Sin dato;Sin dato;;Lomas de Zamora
+2021;Velasquez;Jonathan Moises;16;Varón;Moreno;Robo de bienes de terceros;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Moreno-Gral. Rodríguez
+2021;Gómez;Jonathan;35;Varón;Escobar;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Zárate Campana
+2021;Salinas;Jorge Nahuel;22;Varón;Mar del Plata;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Mar del Plata
+2021;González;Rodrigo Agustín;20;Varón;San Miguel;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2021;Bahillo;Úrsula;18;Mujer;Rojas;Femicidio;Otro mecanismo;Policía Bonaerense;No;;Junín
+2021;;;;Varón;Berazategui;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2021;Sánchez;Franco G.;22;Varón;José C. Paz;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2021;Ruiz;José Luis;28;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2021;Correa;Joel Alexis;17;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2021;G.;M. E.;34;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2021;Figueroa;Florencia;23;Mujer;Malvinas Argentinas;Femicidio;Otro mecanismo;Policía Bonaerense;No;;San Martín
+2021;Giménez;Lucas Emanuel;25;Varón;Malvinas Argentinas;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2021;Bordes;Julio César;36;Varón;Pilar;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2021;Insinger;Pablo Daniel/Gabriel;45;Varón;Almirante Brown;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2021;Funes;Graciela Noemí;41;Mujer;General Madariaga;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Dolores
+2021;;Jonathan;17;Varón;Berazategui;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2021;Ruiz;Iván Daniel;21;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2021;Arjona;Carlos Alberto;31;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2021;González;José Luis;33;Varón;San Martín;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2021;;;;Varón;Lanús;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Avellaneda-Lanús
+2021;Estévez;Jonathan Gabriel;24;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2021;C.;C. M.;21;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Lomas de Zamora
+2021;López;Alexis Nahuel;20;Varón;Berazategui;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2021;Blanco;Jordan Ezequiel;15;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;La Matanza
+2021;Barrionuevo;Alan;16;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2021;Díaz;Claudio Fernando;42;Varón;Morón;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Morón
+2021;Gutiérrez;Nahuel Jonathan;18;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2021;Soto;Lucas Adrián;27;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2021;López García;Germán;44;Varón;San Pedro;Otra circunstancia de intervención policial;Fuerza física;Policía Bonaerense;Sí;Sí;San Nicolás
+2021;Morales;Jonathan Luis;14;Varón;Escobar;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Zárate Campana
+2021;De Lucca;Cielo;24;Trans mujer;La Plata;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2021;Sandoval;Florencia J. D. L. A.;24;Mujer;La Plata;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2021;Barrios;Ariel Alejandro;33;Varón;Pilar;Riesgo de vida de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Isidro
+2021;Yustos;Ignacio N.;21;Varón;San Martín;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;San Martín
+2021;Cordova;Alexander Javier;17;Varón;Avellaneda;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;Sí;No;Avellaneda-Lanús
+2021;Salto;Milton;18;Varón;Avellaneda;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;Sí;No;Avellaneda-Lanús
+2021;Acuña;Cristian Daniel;25;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2021;Gómez;Richard Junior;25;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2021;Galan;Dilan Alan;18;Varón;Lanús;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Avellaneda-Lanús
+2021;Fleita Cardozo;Franco;25;Varón;Tigre;Otra circunstancia de intervención policial;Fuerza física;Policía Bonaerense;Sí;Sí;San Isidro
+2021;Herrera;Victoria A.;6;Mujer;La Matanza;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2021;M.;L. J.;14;Varón;Campana;Sin dato;Sin dato;Sin dato;Sin dato;;Zárate Campana
+2021;Arias;Facundo Ezequiel;22;Varón;Berazategui;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2021;Galvez;Diego Armando Agustin;19;Varón;Berazategui;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Quilmes
+2021;Galeano;Leandro Gabriel;15;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Avellaneda-Lanús
+2021;Juárez;Walter Germán;;Varón;Moreno;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2021;Fernández;Julio Alberto;33;Varón;Escobar;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Zárate Campana
+2021;Rivadeneira;Silvio A.;34;Varón;Hurlingham;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2021;Larramendia Gonzalez;Lucio;50;Varón;Berazategui;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2021;Duarte;Laureano A.;20;Varón;Presidente Perón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2021;Callisti/ A.;Maximiliano/ C. F. D.;40;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2021;Barrios;Maximiliano Roberto;15;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2021;S.;C. D.;17;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2021;B.;A. S. E.;20;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2021;Herrera T.;Agustín R.;20;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2021;N.;N.;;Varón;Esteban Echeverría;Sin dato;Sin dato;Sin dato;Sin dato;;Lomas de Zamora
+2021;Etcheverry;Cristian Claudio;40;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2021;S. V.;J. M.;40;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Quilmes
+2021;Pintos Díaz;Gustavo Alejandro;24;Varón;San Martín;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2021;Miño;Maximiliano Ezequiel;19;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2021;A.;M.;44;Varón;La Matanza;Sin dato;Sin dato;Sin dato;Sin dato;;La Matanza
+2021;Santillán;Andrés;49;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2021;Britez;Fernando Ezequiel;30;Varón;Vicente López;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Isidro
+2021;Mirasola;Lucas Yoel;17;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2021;;;23;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2021;;;23;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2021;Gómez;Miguel Ángel;54;Varón;San Martín;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;San Martín
+2021;Olmedo;Juan Ignacio;18;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2021;Macebo Esquivel;Sebastián Damián;33;Varón;Marcos Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Mercedes
+2021;Albornoz;Alfredo Aníbal;59;Varón;Morón;Persecución;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;Sí;Morón
+2021;Gauna;Lucas Daniel;23;Varón;Vicente López;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Sin dato
+2021;Ayala;Yahir Ariel;21;Varón;Esteban Echeverría;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2021;Candia Ovelar;Hugo Fabián;33;Varón;Avellaneda;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Avellaneda-Lanús
+2021;C.;L. L.;21;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2021;Servían;Miguel Ángel;33;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2021;Vella;Esteban Julio;15;Varón;Chivilcoy;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Mercedes
+2021;;;;Varón;Hurlingham;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2021;F.;A. L.;19;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2021;S. F.;D. G.;18;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2021;B.;G. R.;;Varón;La Matanza;Sin dato;Sin dato;Sin dato;Sin dato;;La Matanza
+2021;M.;A. D.;42;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;San Martín
+2021;Perfumo;Gastón Matías;24;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Prefectura Naval;Sí;No;Avellaneda-Lanús
+2021;Aquino;Thian Benjamín;1;Varón;Merlo;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2021;B.;J. G.;33;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;La Plata
+2021;A.;B. J. E.;28;Varón;Florencio Varela;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2021;;;17;Varón;Almirante Brown;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2021;Sanabria;Ayelen;22;Mujer;Tres de Febrero;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2021;G.;M. G.;27;Varón;Ezeiza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2021;Cantero;José Antonio;17;Varón;Florencio Varela;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2021;Gónzalez;Oscar Omar;14;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2021;Videla;Enzo Ariel;17;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2021;Del Río;Miguel Ánguel;51;Varón;San Isidro;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Isidro
+2021;Estigarribia;Mario Fabián;37;Varón;La Matanza;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2021;Figueroa;Laura;30;Mujer;Berazategui;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2021;Saavedra;Lucas;33;Varón;Berazategui;Femicidio vinculado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Quilmes
+2021;Vera;Rosa Gladys;60;Mujer;Quilmes;Orden de allanamiento y/o detención;Fuerza física;Policía Bonaerense;Sí;Sí;Quilmes
+2021;C.;A. D.;25;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2021;Velazquez Lavande;Kevin Lautaro;16;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2021;Zarate Maneiro;Rodrigo Ezequiel;21;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2021;Esmarra / Smarra;José Salvador;36;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2021;Santillan;Walter Javier;23;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2021;Almeda;Cristian;19;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2021;Cabrera;Genaro Jesús;41;Varón;Malvinas Argentinas;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2021;Saucedo;Inocencio Martires;;Varón;Malvinas Argentinas;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2021;Stanchic;Domingo Esteba;;Varón;Malvinas Argentinas;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2021;Reyes Huisa;Dante;31;Varón;San Martín;Circunstancia de carácter privado;Arma de fuego reglamentaria;Sin dato;Sí;No;San Martín
+2021;Segura;Guido Rubén;33;Varón;José C. Paz;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2021;Barreto;Maximiliano Ramón;32;Varón;Moreno;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2021;Soria;José Antonio;52;Varón;Merlo;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2021;Méndez;Agustín Fabián;15;Varón;General Rodríguez;Persecución;Patrullero;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2021;Olivera;Luciano;16;Varón;Miramar;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Mar del Plata
+2021;Galván;Facundo Lucas Ismael;17;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego no reglamentaria;Prefectura Naval;Sí;No;Lomas de Zamora
+2021;R.;V.;45;Mujer;Baradero;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;San Nicolás
+2021;Alarcón Peréz;David Ángel;29;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2021;Isla;José Roberto;;Varón;Almirante Brown;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2021;Álvarez;Lucas Nahuel;26;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2021;Fleitas;Hugo Raúl;41;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2021;;;;Varón;La Matanza;Robo de bienes propios;Arma de fuego no reglamentaria;Otra;Sí;No;La Matanza
+2022;Díaz;Facundo Leonel;21;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2022;Merlo;Juan Nahuel;19;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2022;Viera;Marcelo Alejandro;;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Prefectura Naval;Sí;No;Avellaneda-Lanús
+2022;Báez;Brian Emanuel;22;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2022;De La Fuente Galliano;Leonel Eugenio;27;Varón;Morón;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Morón
+2022;García;Nicolás Natanael;17;Varón;La Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Plata
+2022;Nievas;Daian;18;Varón;Ramallo;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;San Nicolás
+2022;Rojas;Cristian Eleno;40;Varón;La Plata;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;La Plata
+2022;Mansilla;Brian;31;Varón;Pergamino;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;Pergamino
+2022;Freijo;Alberto Manuel;41;Varón;Florencio Varela;Orden de allanamiento y/o detención;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2022;Orrego;Claudia;37;Mujer;Malvinas Argentinas;Otra circunstancia de intervención policial;Sin dato;Policía Bonaerense;Sí;Sí;San Martín
+2022;Blanco;Brandon Samuel;18;Varón;Mar del Plata;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Mar del Plata
+2022;;;41;Varón;José C. Paz;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2022;Sánchez;Nicolás Gabriel;23;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2022;A.;T. A.;26;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2022;Castro Paz;José Luis;69;Varón;La Matanza;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;La Matanza
+2022;Gonzalez;Brian Nahuel;20;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Lomas de Zamora
+2022;H.;M. A.;30;Varón;Sin dato;Sin dato;Sin dato;Sin dato;Sin dato;;Moreno-Gral. Rodríguez
+2022;Silva;Lilia Mabel;57;Mujer;La Plata;Circunstancia de carácter privado;Sin dato;Policía Bonaerense;Sí;No;La Plata
+2022;Borja;Diego Alberto;42;Varón;Florencio Varela;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2022;Castro;Lautaro Kevin;16;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2022;Sordo;Brian Daniel;17;Varón;San Martín;Persecución;Patrullero;Policía de la Ciudad de Buenos Aires;Sí;Sí;San Martín
+2022;B.;J. H.;24;Varón;Malvinas Argentinas;Sin dato;Sin dato;Sin dato;Sin dato;;San Martín
+2022;Alderete;Ariel Ángel;21;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2022;Cardeno;Leonardo Samuel;17;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2022;Giménez;Elias M;19;Varón;La Matanza;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;No;;La Matanza
+2022;Majori;Lucas Daniel;32;Varón;La Matanza;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;No;;La Matanza
+2022;Piris;Franco;20;Varón;Avellaneda;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;No;;Avellaneda-Lanús
+2022;García;José Maximiliano;30;Varón;General Rodríguez;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2022;T.;N. A.;25;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2022;Rodriguez;Diego Omar;22;Varón;Morón;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2022;Saucedo;Inocencio Martires;;Varón;Malvinas Argentinas;Sin dato;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2022;Stanchic;Domingo Esteban;;Varón;Malvinas Argentinas;Sin dato;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2022;Mansilla;Alina Elizabeth;33;Mujer;Esteban Echeverría;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2022;Quintela;Diego Augusto;47;Varón;San Isidro;Sin dato;Sin dato;Sin dato;Sin dato;;San Isidro
+2022;Vera;Tobias Alexis;17;Varón;La Matanza;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2022;Dos Santos;Rodrigo Manuel;24;Varón;Avellaneda;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Avellaneda-Lanús
+2022;Monzon;Braian Agustín;18;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2022;Fernández;Enzo Lautaro;22;Varón;San Martín;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2022;Aguirre;Matias Ezequiel;18;Varón;San Vicente;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Plata
+2022;Luna Yamilen;Ruth Nélida;31;Mujer;Tigre;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Isidro
+2022;Salinas;Cristian Alejandro;26;Varón;La Plata;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Plata
+2022;Rojas;Alexis Fabián;;Varón;Sin dato;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Morón
+2022;Aquino;Lautaro;;Varón;Tres de Febrero;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Martín
+2022;Gutierrez;Mariano Iván Nicolás;25;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2022;Risso;William Nahuel;25;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Morón
+2022;Romero;Agustín Alexis;17;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2022;Chiocconi;Malena Antonella;21;Mujer;Tigre;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;San Isidro
+2022;Fernández;Joaquín Mirko;23;Varón;Tigre;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;San Isidro
+2022;Galván;Joel Guillermo;25;Varón;Tigre;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;San Isidro
+2022;Azuaga;Nahuel Antonio;22;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2022;Rivero;Franco Agustín;22;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2022;Vélez;Dylan;18;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;La Matanza
+2022;Pereyra;Lucas Ezequiel;21;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2022;Luna;Santiago Facundo;19;Varón;Tres de Febrero;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;San Martín
+2022;Ullua o López;Carlos Esteban;16;Varón;Esteban Echeverría;Robo de bienes propios;Arma de fuego reglamentaria;Gendarmería Nacional;Sí;No;Lomas de Zamora
+2022;Del Valle Galarza;Agustina;20;Mujer;Bahía Blanca;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Bahía Blanca
+2022;González;Alan Alberto;33;Varón;Mercedes;Femicidio vinculado;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Mercedes
+2022;Becker;Gustavo Osvaldo;24;Varón;Vicente López;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;San Isidro
+2022;Ponce De León;Daniel Horacio;29;Varón;Mar del Plata;Otra circunstancia de intervención policial;Fuerza física;Policía Bonaerense;Sí;Sí;Mar del Plata
+2022;Amaya;Gonzalo Ariel;22;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Morón
+2022;Acosta;Ramón Orlando;30;Varón;La Matanza;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;No;;La Matanza
+2022;Juárez;Ángel Agustín;19;Varón;;Accidente de tránsito con patrullero;Patrullero;Policía Bonaerense;Sí;Sí;Quilmes
+2022;Chaves;Juan Carlos;73;Varón;Lanús;Circunstancia de carácter privado;Fuerza física;Policía de la Ciudad de Buenos Aires;Sí;No;Avellaneda-Lanús
+2022;López;Ángel Alexis;29;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2022;Díaz;Nicolás Adrián;27;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2022;Jara;José Miguel;19;Varón;San Martín;Robo de bienes propios;Arma de fuego no reglamentaria;Policía Bonaerense;Sí;No;San Martín
+2022;Vargas;Héctor Maximiliano;28;Varón;Sin dato;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Quilmes
+2022;Espinillo;Marcelo Andrés;50;Varón;Tres de Febrero;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;San Martín
+2022;Muñoz;Marcelo Miguel Ángel;21;Varón;Moreno;Otra circunstancia de intervención policial;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Moreno-Gral. Rodríguez
+2022;;;;Varón;Lanús;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Avellaneda-Lanús
+2022;Ponce;Natalia Evelyn;21;Mujer;Almirante Brown;Femicidio;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2022;Gentile;Cristian Nicolas;;Varón;La Matanza;Persecución;Otro mecanismo;Sin dato;Sí;Sí;La Matanza
+2022;Vargas;Jorge Julio;31;Varón;Presidente Perón;Otra circunstancia de intervención policial;Sin dato;Policía Bonaerense;Sí;Sí;La Plata
+2022;Guerreño;Brian Uriel;17;Varón;Luján;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Mercedes
+2022;;;18;Varón;Lomas de Zamora;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Lomas de Zamora
+2022;Bellido;Esteban Rafael Eduardo;39;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2022;Villalba;Leonardo;28;Varón;Lomas de Zamora;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Lomas de Zamora
+2022;Vergara;Oscar Augusto;;Varón;Ezeiza;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2022;Rodríguez;Natanahel Blas;17;Varón;Almirante Brown;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Lomas de Zamora
+2022;Báez Paniagua;Brian Gabriel;29;Varón;Quilmes;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;Quilmes
+2022;Laval Barletta;Cristian Eduardo;33;Varón;La Matanza;Persecución;Arma de fuego reglamentaria;Policía Bonaerense;Sí;Sí;La Matanza
+2022;Bogarin;Sergio Damián;27;Varón;Moreno;Circunstancia de carácter privado;Arma de fuego no reglamentaria;Policía Bonaerense;Sí;No;Moreno-Gral. Rodríguez
+2022;González;Hernán Eduardo;24;Varón;Merlo;Robo de bienes propios;Arma de fuego reglamentaria;Policía Bonaerense;Sí;No;Morón
+2022;Batalla;Gastón Enrique;44;Varón;San Miguel;Robo de bienes propios;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;San Martín
+2022;Escobar;Jairo;28;Varón;Quilmes;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;Quilmes
+2022;Bagnato;Nahuel Alan;24;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2022;Muñoz;Tomás Eliel;19;Varón;La Matanza;Robo de bienes de terceros;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;La Matanza
+2022;Vega;Joaquín;20;Varón;La Matanza;Robo de bienes propios;Arma de fuego reglamentaria;Policía de la Ciudad de Buenos Aires;Sí;No;La Matanza
+2022;Miracco;Walter Gabriel;25;Varón;Mar del Plata;Persecución;Otro mecanismo;Policía Bonaerense;Sí;Sí;Mar del Plata
+2022;Valdez;Agustín Tomás;26;Varón;Moreno;Circunstancia de carácter privado;Arma de fuego reglamentaria;Policía Federal Argentina;Sí;No;Moreno-Gral. Rodríguez
